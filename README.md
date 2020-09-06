@@ -4,8 +4,6 @@
 add something
 
 
+Updates made on master on github before rebase
 
-Now editing on update-readme branch
-
-Updated locally
 
